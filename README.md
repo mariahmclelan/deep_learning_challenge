@@ -1,6 +1,4 @@
-# deep_learning_challenge
-
-## Report on the Performance of the Deep Learning Model for Alphabet Soup
+##Performance of the Deep Learning Model for Alphabet Soup
 
 ### Overview of the Analysis:
 The purpose of this analysis is to develop a deep learning model using neural networks to predict whether funding from Alphabet Soup, a charitable organization, will be used effectively by various organizations. The goal is to achieve a target predictive accuracy higher than 75% to aid Alphabet Soup in making informed decisions about funding allocation.
