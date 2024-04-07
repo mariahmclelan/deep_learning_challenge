@@ -10,7 +10,9 @@ The purpose of this analysis is to develop a deep learning model using neural ne
 * Target Variable: The target variable for the model is IS_SUCCESSFUL, which indicates whether the funding was used effectively (1) or not (0).
 * Feature Variables: The feature variables for the model include APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, and ASK_AMT.
 * Variables to be Removed: The identification columns EIN and NAME should be removed from the input data as they are neither targets nor features.
-* For the optimized learning model I added NAME back in as a Feature Variable and I removed STATUS, ORGANIZATION and INCOME_AMT. 
+* For the optimized learning model I added NAME back in as a Feature Variable and I removed STATUS, ORGANIZATION and INCOME_AMT.
+* ![image](https://github.com/mariahmclelan/deep_learning_challenge/assets/148505481/fa83b8d2-4ecd-4c9c-a79b-f5331bf42064)
+
 
 
 ### Compiling, Training, and Evaluating the Model:
@@ -22,6 +24,7 @@ Neurons, Layers, and Activation Functions For the Optimized Learning Model:
 * ReLU activation functions for all hidden layers.
 * Sigmoid activation function for the output layer.
 * Achieving Target Model Performance: The model achieved an accuracy above 75% on the training data. When evaluating the model it came out to 76% accurate
+* ![image](https://github.com/mariahmclelan/deep_learning_challenge/assets/148505481/7a34172e-e353-46fc-adb5-18b3368b0098)
 * Steps to Increase Model Performance: To improve model performance, I experimented with different architectures, including adding more layers and neurons, and adjusting the features. By doing that I was able to increase the accuracy from 72% to 76%
 
 
