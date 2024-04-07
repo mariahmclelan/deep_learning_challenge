@@ -21,8 +21,8 @@ Neurons, Layers, and Activation Functions For the Optimized Learning Model:
     * Multiple hidden layers were included to enable the model to learn hierarchical representations of the data
 * ReLU activation functions for all hidden layers.
 * Sigmoid activation function for the output layer.
-Achieving Target Model Performance: The model achieved an accuracy above 75% on the training data. When evaluating the model it came out to 76% accurate
-Steps to Increase Model Performance: To improve model performance, I experimented with different architectures, including adding more layers and neurons, and adjusting the features. By doing that I was able to increase the accuracy from 72% to 76%
+* Achieving Target Model Performance: The model achieved an accuracy above 75% on the training data. When evaluating the model it came out to 76% accurate
+* Steps to Increase Model Performance: To improve model performance, I experimented with different architectures, including adding more layers and neurons, and adjusting the features. By doing that I was able to increase the accuracy from 72% to 76%
 
 
 ### Summary:
